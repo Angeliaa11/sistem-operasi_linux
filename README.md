@@ -54,8 +54,15 @@ A). Edit file .bash_profile untuk mengubah PS1
 1. Buka terminal baru
 2. Buka file .bash_profile
 3. jalankan perintah **nano ~/.bash_profile**
-4. 
+   
+   ![Image](https://github.com/user-attachments/assets/0ca30c5a-cfda-4797-a4a2-51ec1c365203)
+   
+4. lalu simpan file tersebut
+5. Verifikasi Perubahan
 
+   Buka Terminal baru lalu jalankan
+
+   
      
 
     
