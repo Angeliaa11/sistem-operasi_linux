@@ -39,7 +39,7 @@ Tugas 1 : Eksekusi Profile
     - Buka file .bashrc **nano ~/.bashrc**
     - Tambahkan baris di akhir file **echo "Profile dari .bashrc"** lalu simpan
 
-    ![Image](https://github.com/user-attachments/assets/86a9e074-5c0f-47d0-9e46-adfc7b6435d5)
+![Image](https://github.com/user-attachments/assets/86a9e074-5c0f-47d0-9e46-adfc7b6435d5)
 
   5. Verifikasi perubahan:
     - Logout dan login kembali, atau buka terminal baru.
@@ -73,7 +73,14 @@ B). Eksperimen dengan PS1
 
    Outputnya:
    
+   ![Image](https://github.com/user-attachments/assets/4f561257-8c6f-42a7-89c3-5797592735e2)
 
+   Tugas 3: Logout
+
+   1. Edit file .bash_logout
+   2. Buka file .bash_logout jalankan perintah berikut : **nano ~/.bash_logout**
+   3. Tambahkan baris berikut
+      
    
      
 
