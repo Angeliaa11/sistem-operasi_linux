@@ -60,7 +60,9 @@ A). Edit file .bash_profile untuk mengubah PS1
 4. lalu simpan file tersebut
 5. Verifikasi Perubahan
 
-   Buka Terminal baru lalu jalankan
+Buka Terminal baru lalu jalankan
+
+   ![Image](https://github.com/user-attachments/assets/57e6e23f-c9b9-4163-b059-9aee0adf0bfd)
 
    
      
