@@ -63,6 +63,16 @@ A). Edit file .bash_profile untuk mengubah PS1
 Buka Terminal baru lalu jalankan
 
    ![Image](https://github.com/user-attachments/assets/57e6e23f-c9b9-4163-b059-9aee0adf0bfd)
+   
+B). Eksperimen dengan PS1
+
+1. Ubah PS1 sementara
+   
+   Jalankan perintah berikut satu per satu untuk melihat perubahan prompt:
+   ![Image](https://github.com/user-attachments/assets/9512e0d0-707b-4098-ac38-413dde3ec118)
+
+   Outputnya:
+   
 
    
      
