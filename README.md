@@ -77,9 +77,10 @@ B). Eksperimen dengan PS1
 
    Tugas 3: Logout
 
-   1. Edit file .bash_logout
-   2. Buka file .bash_logout jalankan perintah berikut : **nano ~/.bash_logout**
-   3. Tambahkan baris berikut
+1. Edit file .bash_logout
+2. Buka file .bash_logout jalankan perintah berikut : **nano ~/.bash_logout**
+3. Tambahkan baris berikut
+   ![Image](https://github.com/user-attachments/assets/63a352ae-3ea4-43ec-98fe-4b13025ae60d)
       
    
      
