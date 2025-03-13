@@ -4,12 +4,13 @@
 
 **Kelas : TK 4 C**
 
+Tugas 1 : Eksekusi Profile
 
 **A).Edit file /etc/profile:**
 
 1. Langkah pertama buka terminal
    
-2. Jalankan perintah berikut untuk membuka file dengan editor nano:sudo nano /etc/profile lalu tambahkan di akhir file "echo "profile dari /etc/profile" lalu simpan file
+2. Jalankan perintah berikut untuk membuka file dengan editor nano /etc/profile lalu tambahkan di akhir file "echo "profile dari /etc/profile" lalu simpan file
   
   ![Image](https://github.com/user-attachments/assets/41fead34-e911-49fd-8597-1bff1a729ec6)
   
@@ -43,6 +44,17 @@
   5. Verifikasi perubahan:
     - Logout dan login kembali, atau buka terminal baru.
     - Anda akan melihat pesan dari masing-masing file profile yang dieksekusi.
+
+     ![Image](https://github.com/user-attachments/assets/f2651024-0e4b-4990-95ff-af70d4794ce1)
+
+**Tugas 2 : Prompt String (PS)**
+
+A). Edit file .bash_profile untuk mengubah PS1
+
+1. Buka terminal baru
+2. Buka file .bash_profile
+3. jalankan perintah **nano ~/.bash_profile**
+4. 
 
      
 
